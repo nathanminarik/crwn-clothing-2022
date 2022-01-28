@@ -1,6 +1,7 @@
 export * from './cart-dropdown';
 export * from './cart-icon';
 export * from './cart-item';
+export * from './checkout-item';
 export * from './collection-item';
 export * from './collection-preview';
 export * from './custom-button';

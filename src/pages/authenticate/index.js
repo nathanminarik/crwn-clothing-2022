@@ -1,1 +1,1 @@
-export { Authenticate } from './athenticate.component';
+export { AuthenticatePage } from './athenticate.component';
